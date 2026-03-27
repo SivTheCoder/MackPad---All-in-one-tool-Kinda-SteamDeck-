@@ -4,7 +4,7 @@
 ---
 
 ## Overview  
-MackPad is a compact, high-functionality macropad designed to deliver maximum utility within a minimal footprint. Built around the Seeeduino XIAO RP2040, it efficiently utilizes nearly all available GPIO pins to support a wide range of features.
+MackPad is a compact, high-functionality macropad designed to deliver maximum utility within a minimal footprint. Built around the Seeeduino XIAO ESP32 S3, it efficiently utilizes nearly all available GPIO pins to support a wide range of features.
 
 Key features include:  
 - 3x3 NKRO macro keypad  
@@ -30,7 +30,7 @@ This device is designed for productivity, quick controls, and customizable workf
 ## Usage  
 
 ### Setup Steps  
-1. Flash the Seeeduino XIAO RP2040 with the appropriate CircuitPython `.uf2` firmware  
+1. Flash the Seeeduino XIAO ESP32 S3 with the appropriate CircuitPython `.uf2` firmware  
 2. Upload the following files to the board:  
    - `code.py`  
    - required libraries  
@@ -68,7 +68,7 @@ This project originated from a need for a rotary encoder-based control system fo
 
 | Qty | Component                          | Notes                          | Approx Price (USD) | Approx Price (INR) |
 |-----|-----------------------------------|--------------------------------|--------------------|--------------------|
-| 1   | Seeeduino XIAO RP2040             | Microcontroller                | $6.00              | ₹500               |
+| 1   | Seeeduino XIAO ESP32 S3             | Microcontroller                | $6.00              | ₹500               |
 | 9   | MX-style switches                 | Mechanical switches            | $4.50              | ₹375               |
 | 9   | 1N4148 diodes                     | Switch matrix                  | $0.90              | ₹75                |
 | 1   | SSD1306 0.91" OLED (128x32)       | I2C display                    | $3.00              | ₹250               |
