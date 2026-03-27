@@ -51,33 +51,6 @@ This project originated from a need for a rotary encoder-based control system fo
 
 ---
 
-## Hardware Design  
-
-### Device  
-![Device](https://github.com/user-attachments/assets/1cecbb9d-efbc-4caf-a650-c4ef3b9b1b36)
-
-### CAD Model  
-<img width="1667" height="1214" alt="CAD" src="https://github.com/user-attachments/assets/36a53e9b-23d4-420f-b2f6-a9299adbe44c" />
-
-### PCB  
-<img width="1197" height="1473" alt="PCB" src="https://github.com/user-attachments/assets/e0f6fa52-33c0-49af-826a-1d3b61d8c1c1" />
-
-### Schematic  
-<img width="1902" height="1443" alt="Schematic" src="https://github.com/user-attachments/assets/f63fb52b-086d-4017-8256-01fb7f721c10" />
-
----
-
-## Enclosure  
-- Friction-fit design optimized for 3D printing  
-- Designed with tolerances for easy assembly  
-- Compatible with standard PLA/ABS printing  
-
-<img width="1847" height="1191" src="https://github.com/user-attachments/assets/00c511c3-85a2-42e7-90db-dee0aa2d07d7" />
-<img width="1471" height="994" src="https://github.com/user-attachments/assets/5d77c487-a88f-420d-89d2-6a4d78d9e9d2" />
-<img width="1639" height="1205" src="https://github.com/user-attachments/assets/bf73be48-dff1-44d9-8dd9-ed756e76dd81" />
-
----
-
 ## Firmware  
 - Built using KMK firmware  
 - OLED used for:  
